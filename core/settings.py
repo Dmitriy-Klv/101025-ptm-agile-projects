@@ -23,6 +23,7 @@ INSTALLED_APPS = [
 
     # third-party libraries
     'rest_framework',
+    'django_filters',
 
     # local apps
     'projects.apps.ProjectsConfig',
